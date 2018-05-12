@@ -24,6 +24,8 @@ creator:
     gutenberg_agent_id: '39538'
     url: http://www.gutenberg.org/2009/agents/39538
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13786#The-Influence-of-Old-Norse-Literature-on-English-Literature
 gutenberg_issued: '2004-10-18'
 gutenberg_type: Text
 identifiers:
