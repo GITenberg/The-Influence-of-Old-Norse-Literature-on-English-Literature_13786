@@ -1,0 +1,41 @@
+_repo: The-Influence-of-Old-Norse-Literature-on-English-Literature_13786
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Mott, Lewis Freeman
+    birthdate: 1863
+    deathdate: 1941
+    gutenberg_agent_id: '39671'
+    url: http://www.gutenberg.org/2009/agents/39671
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Nordby, Conrad Hjalmar
+    birthdate: 1867
+    deathdate: 1900
+    gutenberg_agent_id: '5219'
+    url: http://www.gutenberg.org/2009/agents/5219
+  editor:
+    agent_name: Carpenter, William H. (William Henry)
+    birthdate: 1853
+    deathdate: 1936
+    gutenberg_agent_id: '39538'
+    url: http://www.gutenberg.org/2009/agents/39538
+description: ''
+gutenberg_issued: '2004-10-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13786'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcc 'PD'
+- !lcsh 'Comparative literature -- Icelandic and English'
+- !lcsh 'Comparative literature -- English and Icelandic'
+title: The Influence of Old Norse Literature on English Literature
+url: http://www.gutenberg.org/ebooks/13786
